@@ -1,0 +1,6 @@
+
+{
+  "name": "orientation",
+  "description": "image orientation with exiftool",
+  "version": "0.2.0"
+}
